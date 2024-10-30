@@ -1,0 +1,17 @@
+span.twitter_search{
+	padding-right:20px;
+	background:transparent url(twitter.png) no-repeat center right;
+	cursor:pointer;
+	border-bottom: 1px dotted lightgrey;
+}
+.twitterSearchClose{
+	position:absolute;
+	right:0px;
+	top:0px;
+	background:#aaa url(close.png) no-repeat center right;
+	width:13px;
+	height:13px;
+	cursor:pointer;
+}
+
+.powered-by-cmscrate{clear:both; margin-top:10px; font-size:10px;}
